@@ -1,0 +1,935 @@
+,Word,Meaning,Secondary_Meaning
+1,Abate,"To reduce in intensity, amount, or severity.",To diminish or lessen over time.
+2,Aberrant,Deviating from the norm or standard.,Unusual or abnormal in behavior or structure.
+3,Abhor,To regard with disgust or hatred.,
+4,Abound,To exist in large numbers or quantities.,To be rich or well-supplied with something.
+5,Abrasive,Causing damage by grinding or rubbing.,Harsh or insensitive in manner.
+6,Abreast,Side by side and facing the same way.,Up to date with the latest information or developments.
+7,Abridge,To shorten a text without losing its essence.,To reduce or diminish.
+8,Abrogate,"To repeal or do away with a law, right, or formal agreement.",
+9,Abscond,To leave hurriedly and secretly to avoid detection or arrest.,
+10,Abstruse,Difficult to understand; obscure.,
+11,Accentuate,To emphasize or make more noticeable.,
+12,Accessible,"Easy to approach, reach, or use.",Open and receptive to ideas or experiences.
+13,Acerbic,Sharp and forthright in tone or manner.,Having a sour or bitter taste.
+14,Acquiesce,To accept something reluctantly but without protest.,
+15,Acquisitive,Eager to acquire wealth or possessions.,
+16,Acrimonious,"Angry and bitter, especially in speech or debate.",
+17,Activism,The practice of vigorous action or involvement to achieve political or social goals.,
+18,Acumen,Keen insight or quickness in understanding and decision-making.,
+19,Adept,Highly skilled or proficient.,
+20,Admonish,To warn or reprimand someone firmly.,To advise or urge earnestly.
+21,Adroit,"Skillful and clever, especially with the hands or mind.",
+22,Adulation,Excessive praise or admiration.,
+23,Adulterate,To make something impure by adding inferior substances.,
+24,Advocate,To support or recommend publicly.,A person who supports a cause or policy.
+25,Aesthetic,Relating to beauty or the appreciation of beauty.,
+26,Affable,"Friendly, easy to talk to, and approachable.",
+27,Affectation,An artificial display of behavior or manner intended to impress.,
+28,Aggrandize,"To increase in power, status, or wealth.",To enhance the reputation of someone beyond what is justified.
+29,Aghast,"Filled with shock, horror, or amazement.",
+30,Alacrity,Cheerful readiness or eagerness.,
+31,Alienate,To make someone feel isolated or estranged.,To transfer ownership or rights.
+32,Alleviate,To make suffering or a problem less severe.,
+33,Allusive,Referring indirectly or implicitly to something.,
+34,Aloof,Distant and reserved in manner or behavior.,Physically distant or apart.
+35,Altruistic,Unselfishly concerned for the well-being of others.,
+36,Ambiguity,The quality of being open to more than one interpretation.,
+37,Ambivalent,Having mixed feelings or contradictory ideas about something or someone.,
+38,Ameliorate,To improve or make something better.,
+39,Amenable,Open to suggestion or willing to comply.,
+40,Amend,To make changes to a document or text to improve it.,To modify or revise something.
+41,Amiable,Friendly and pleasant in manner.,
+42,Amicable,Characterized by friendliness and a lack of conflict.,
+43,Amorphous,Lacking a definite form or clear structure.,
+44,Anachronism,Something that is out of place in terms of time or chronology.,
+45,Analogous,"Comparable in certain respects, typically to clarify.",
+46,Anecdote,"A short, amusing, or interesting story about a real incident or person.",
+47,Anoint,"To smear or rub with oil, typically as part of a religious ceremony.",To choose or designate someone for a role or position.
+48,Anomaly,Something that deviates from the standard or norm.,
+49,Antagonize,To provoke hostility or opposition.,
+50,Antedate,To precede in time.,To assign an earlier date to an event or document.
+51,Antipathy,A strong feeling of dislike or aversion.,
+52,Antithesis,A direct opposite or contrast.,A rhetorical device that juxtaposes contrasting ideas in balanced phrases.
+53,Apathy,"Lack of interest, enthusiasm, or concern.",
+54,Aphorism,A concise statement expressing a general truth or principle.,
+55,Aplomb,"Self-confidence or assurance, especially in a demanding situation.",
+56,Apogee,The highest point or climax.,The point in an orbit farthest from Earth.
+57,Apologist,A person who defends or supports something controversial.,
+58,Appease,To pacify or placate someone by acceding to their demands.,
+59,Apposite,Highly appropriate or relevant to the situation.,
+60,Apprehension,Fear or anxiety about something.,Understanding or grasp of a concept.
+61,Apprise,To inform or notify someone.,
+62,Approbation,Approval or praise.,
+63,Appropriate,"To take something for one's own use, often without permission.",Suitable or proper in circumstances.
+64,Apt,Suitable or appropriate in context.,Having a natural tendency or inclination. Tertiary: Quick to learn or intelligent.
+65,Arbitrary,"Based on random choice or personal whim, rather than reason.",Exercising power in an unfair or oppressive way.
+66,Arcane,Known or understood by only a few; mysterious or obscure.,
+67,Archaic,Old-fashioned or outdated.,Relating to an earlier historical period.
+68,Archetype,A typical example or original model of something.,
+69,Ardent,Enthusiastic or passionate.,
+70,Arduous,Involving or requiring a lot of effort; difficult and tiring.,
+71,Artful,Clever or skillful in achieving a goal.,Deceptive or cunning.
+72,Articulate,Able to express ideas clearly and effectively.,To pronounce or express distinctly.
+73,Artless,Without guile or deceit; natural and sincere.,Lacking skill or refinement.
+74,Ascetic,Practicing severe self-discipline and abstention.,
+75,Ascribe,"To attribute something to a cause, person, or source.",
+76,Assail,To attack violently or criticize strongly.,
+77,Assertive,Confidently self-assured in stating opinions or demands.,
+78,Assiduous,"Showing great care, attention, and effort.",
+79,Assuage,To make an unpleasant feeling less intense.,
+80,Astute,Having sharp judgment or insight.,
+81,Attenuate,"To reduce in force, value, or intensity.",
+82,Audacious,"Bold and daring, often recklessly so.",Showing a lack of respect.
+83,Augment,To increase or make something larger.,
+84,Auspicious,Favorable or indicative of good fortune.,
+85,Austere,Severely plain or simple in style.,Strict or harsh in manner. Tertiary: Practicing self-discipline or abstention.
+86,Avarice,Extreme greed for wealth or material gain.,
+87,Aver,To assert or affirm confidently.,
+88,Aversion,A strong dislike or disinclination.,
+89,Avert,To turn away or prevent something from happening.,
+90,Avid,Eager and enthusiastic about something.,
+91,Balloon,To swell or expand rapidly.,
+92,Banal,Lacking originality; boringly predictable.,
+93,Banish,"To expel or send away, typically as a punishment.",
+94,Baroque,Highly ornate and extravagant in style.,
+95,Base,Lacking moral principles; ignoble.,The lowest part or foundation of something.
+96,Befuddle,To confuse or perplex.,
+97,Beguile,To charm or enchant deceptively.,
+98,Belie,To give a false impression or contradict.,
+99,Belligerent,Hostile and aggressive.,
+100,Bemuse,To confuse or bewilder.,
+101,Benign,"Gentle, kind, and harmless.",
+102,Berate,To scold or criticize angrily.,
+103,Blight,Something that spoils or damages.,A plant disease.
+104,Blithe,Cheerful and carefree.,Showing a casual indifference.
+105,Bogus,Fake or not genuine.,
+106,Boisterous,"Noisy, energetic, and cheerful.",
+107,Bolster,To support or strengthen.,
+108,Bombastic,Overblown or pompous in speech or writing.,
+109,Boon,A timely blessing or benefit.,
+110,Boorish,Rough and bad-mannered.,
+111,Brandish,To wave or display something in a threatening or excited manner.,
+112,Bravado,A show of boldness intended to impress or intimidate.,
+113,Brazen,Bold and without shame.,
+114,Brevity,Conciseness in speech or writing.,
+115,Bridle,To restrain or control.,To show anger or resentment.
+116,Bromide,A commonplace or boring remark.,
+117,Brook,To tolerate or endure.,
+118,Bucolic,Relating to the pleasant aspects of the countryside.,
+119,Buoyant,Able to float.,Cheerful and optimistic.
+120,Burgeon,To grow or develop rapidly.,
+121,Buttress,To support or reinforce.,
+122,Byzantine,Highly complex or intricate.,Relating to the Byzantine Empire.
+123,Cacophonous,Harsh and discordant in sound.,
+124,Cajole,To persuade through flattery or coaxing.,
+125,Calamitous,Disastrous or catastrophic.,
+126,Callous,Emotionally insensitive or unfeeling.,
+127,Callow,Inexperienced or immature.,
+128,Calumny,A false statement meant to harm someone's reputation.,
+129,Camaraderie,Mutual trust and friendship among people.,
+130,Candid,Open and honest in expression.,
+131,Candor,The quality of being frank and sincere.,
+132,Canny,"Shrewd and careful, especially in business.",
+133,Canonize,To declare someone a saint.,To treat something as sacrosanct.
+134,Capitulate,To surrender or give up resistance.,
+135,Caprice,"A sudden, unpredictable change in mood or behavior.",
+136,Captious,Tending to find fault or raise petty objections.,
+137,Castigate,To criticize or punish severely.,
+138,Catholic,Universal or inclusive.,
+139,Caustic,Capable of burning or corroding.,Sarcastic in a scathing way.
+140,Censure,To express strong disapproval.,
+141,Cerebral,Intellectual rather than emotional or physical.,
+142,Chagrin,Distress or embarrassment at having failed.,
+143,Champion,To support or defend a cause.,
+144,Chary,Cautious or wary.,
+145,Chastise,To criticize or reprimand harshly.,
+146,Chauvinistic,Excessively patriotic or biased in favor of one's group.,
+147,Check,To restrain or stop something.,
+148,Chicanery,Deception or trickery.,
+149,Chivalrous,"Courteous and gallant, especially toward women.",
+150,Churlish,Rude or unfriendly.,
+151,Circumscribe,To restrict or limit.,To draw a boundary around something.
+152,Circumspect,Cautious and careful to consider all circumstances.,
+153,Clamorous,Loud and insistent noise or outcry.,
+154,Clandestine,"Done secretly, often to conceal an illicit purpose.",
+155,Clangor,"A loud, resonant sound or clang.",
+156,Cloak,To conceal or disguise.,A garment worn over clothes as a covering.
+157,Coalesce,To come together to form one whole.,
+158,Coercion,The practice of forcing someone to act through threats or pressure.,
+159,Cogent,Convincing and logical.,
+160,Collude,To conspire or cooperate secretly for a deceitful purpose.,
+161,Collusion,Secret agreement or cooperation for a fraudulent or deceitful purpose.,
+162,Commensurate,"Corresponding in size, extent, or degree.",
+163,Commiserate,To express sympathy or pity.,
+164,Compelling,Evoking interest or attention.,Forceful or persuasive.
+165,Complacent,Self-satisfied and unaware of potential dangers.,
+166,Complementary,Serving to complete or enhance something.,
+167,Compliant,Willing to obey rules or conform to requests.,
+168,Conciliatory,Intended to placate or reconcile.,
+169,Condone,To overlook or accept behavior that is morally questionable.,
+170,Conflagration,A large and destructive fire.,A violent conflict or war.
+171,Congenial,Pleasant and compatible in nature.,
+172,Conjecture,An opinion or conclusion formed without sufficient evidence.,
+173,Connoisseur,An expert with refined taste in a particular field.,
+174,Consequential,Having significant consequences.,Self-important.
+175,Conspicuous,Clearly visible or attracting attention.,
+176,Construe,To interpret or explain the meaning of something.,
+177,Contemptuous,Showing disdain or scorn.,
+178,Contend,To struggle or compete for something.,To assert a position in an argument.
+179,Contentious,Likely to cause disagreement or argument.,
+180,Contingent,Dependent on certain conditions.,A group forming part of a larger group.
+181,Contravene,To violate or go against.,
+182,Contrite,Feeling or expressing remorse.,
+183,Conundrum,A confusing and difficult problem or question.,
+184,Convivial,Cheerful and friendly; festive.,
+185,Copious,Abundant in supply or quantity.,
+186,Corroborate,To confirm or support with evidence.,
+187,Cosmopolitan,Familiar with and at ease in many cultures or countries.,
+188,Countenance,Facial expression.,To support or tolerate.
+189,Counterintuitive,Contrary to common sense or expectation.,
+190,Covert,Concealed or hidden; not openly displayed.,
+191,Covet,To desire something belonging to another.,
+192,Cow,To intimidate or frighten.,
+193,Crafty,Skilled in deception or manipulation.,
+194,Craven,Cowardly or lacking courage.,
+195,Credible,Believable or trustworthy.,
+196,Crescendo,A gradual increase in intensity or volume.,
+197,Crestfallen,Disappointed or dejected.,
+198,Cumbersome,Clumsy or difficult to handle due to size or weight.,
+199,Cunning,Skillful in achieving goals through deceit.,Clever or ingenious.
+200,Curb,To restrain or limit something.,
+201,Curmudgeon,A bad-tempered or grumpy person.,
+202,Cursory,Done quickly and without attention to detail.,
+203,Cynical,Distrustful of others' motives; believing people act out of self-interest.,
+204,Daunting,Intimidating or causing fear.,
+205,Dearth,A scarcity or lack of something.,
+206,Debase,To reduce the value or quality of something.,
+207,Debilitating,Causing weakness or impairment.,
+208,Debunk,To expose the falseness of a belief or idea.,
+209,Decadent,Overly luxurious and self-indulgent.,
+210,Decorum,Proper behavior or etiquette.,
+211,Decry,To publicly denounce or criticize.,
+212,Deference,Respectful submission to the authority or judgment of another.,
+213,Deferential,Showing respect or humility.,
+214,Deft,Skillful and quick in movement.,
+215,Deleterious,Harmful or damaging.,
+216,Delineate,To describe or outline precisely.,
+217,Demur,To raise objections or show reluctance.,
+218,Denigrate,To criticize unfairly or belittle.,
+219,Denounce,To publicly condemn.,
+220,Depravity,Moral corruption or wickedness.,
+221,Deride,To mock or ridicule.,
+222,Derivative,Imitative of another work.,
+223,Desiccate,To dry out completely.,
+224,Despotic,Tyrannical or authoritarian.,
+225,Desultory,Lacking a clear plan or purpose.,
+226,Deter,To discourage or prevent an action.,
+227,Detrimental,Harmful or damaging.,
+228,Devolve,To transfer power or responsibility.,To degenerate or deteriorate.
+229,Diatribe,A bitter and prolonged verbal attack or criticism.,
+230,Dichotomy,A division or contrast between two opposing ideas or concepts.,
+231,Dictum,A formal or authoritative statement or pronouncement.,
+232,Didactic,Intended to teach or instruct.,Overly moralistic or preachy.
+233,Diffident,Lacking confidence; shy or reserved.,
+234,Diffuse,Spread out over a large area.,Lacking clarity or focus; verbose.
+235,Digression,A temporary departure from the main subject in speech or writing.,
+236,Dilatory,Slow to act; procrastinating.,
+237,Dilettante,A person who dabbles in an art or field of knowledge without commitment.,
+238,Diminutive,Extremely small in size.,
+239,Discern,To perceive or recognize clearly.,
+240,Discomfit,To make someone feel uneasy or embarrassed.,
+241,Disconcert,To unsettle or throw into confusion.,
+242,Discord,Disagreement or lack of harmony.,
+243,Discount,To disregard or dismiss.,A reduction in price.
+244,Discreet,Careful and circumspect in speech or actions to avoid offense or attention.,
+245,Disingenuous,Not candid or sincere; deceitful.,
+246,Disinterested,Impartial or unbiased.,Not interested or indifferent.
+247,Dismantle,To take something apart.,
+248,Disparate,Essentially different in kind; not comparable.,
+249,Dispassionate,Not influenced by strong emotion; impartial and rational.,
+250,Dissemble,To conceal one's true motives or feelings.,
+251,Disseminate,"To spread or distribute widely (information, ideas, etc.).",
+252,Dissent,To disagree or express a differing opinion.,
+253,Dissident,A person who opposes official policy or authority.,
+254,Dissolution,The disintegration or breaking apart of something.,"The formal ending of a legal entity, such as a marriage or corporation."
+255,Distend,To expand or swell due to pressure from within.,
+256,Distill,To extract the essential meaning or most important aspects.,To purify a liquid through evaporation and condensation.
+257,Divergent,Moving apart or differing from a standard.,
+258,Divulge,To reveal or make known (something private or secret).,
+259,Doctrinaire,Rigidly devoted to theories or doctrines without regard for practicality.,
+260,Dogged,Persistent and determined.,
+261,Dogmatic,Asserting opinions in an authoritative or arrogant manner without evidence.,
+262,Dormant,Inactive or in a state of rest.,
+263,Draconian,Excessively harsh or severe.,
+264,Droll,Amusingly odd or whimsically humorous.,
+265,Dupe,To deceive or trick.,A person who is easily deceived.
+266,Duplicity,Deceitfulness or double-dealing.,
+267,Duress,Compulsion by threat or force.,
+268,Dwindling,Gradually diminishing or becoming smaller.,
+269,Ebullient,Overflowing with enthusiasm or excitement.,
+270,Eccentric,Unconventional or slightly strange in behavior or appearance.,
+271,Echelon,A level or rank in an organization or system.,
+272,Eclectic,Selecting ideas or styles from a diverse range of sources.,
+273,Eclipse,To surpass or overshadow.,An astronomical event where one celestial body obscures another.
+274,Edify,To instruct or improve morally or intellectually.,
+275,Efficacy,The ability to produce the desired effect or outcome.,
+276,Effrontery,Shameless boldness or impudence.,
+277,Egalitarian,Advocating for or believing in the equality of all people.,
+278,Egotist,A self-centered or arrogant person.,
+279,Egregious,Shockingly bad or flagrant.,
+280,Elate,To make someone ecstatically happy.,
+281,Elevate,To raise to a higher position or level.,
+282,Elicit,To draw out or evoke a response or reaction.,
+283,Elitist,Believing in or advocating for the superiority of an elite class or group.,
+284,Eloquent,Fluent or persuasive in speech or writing.,
+285,Elucidate,To explain or make clear.,
+286,Elusive,"Difficult to find, achieve, or understand.",
+287,Embellish,To decorate or add details to make something more attractive.,To exaggerate or add fictitious details.
+288,Empirical,Based on observation or experience rather than theory.,
+289,Emulate,To imitate or match in order to equal or surpass.,
+290,Enamor,To inspire with love or admiration.,
+291,Enchant,To charm or captivate.,To cast a magical spell on.
+292,Endemic,Native or restricted to a particular area or region.,
+293,Endow,"To provide or equip with a quality, ability, or asset.",
+294,Enervate,To weaken or drain energy from.,
+295,Engender,To cause or give rise to something.,
+296,Enigmatic,Mysterious or difficult to interpret.,
+297,Enmity,Hostility or animosity.,
+298,Ennui,A feeling of boredom or listlessness due to lack of interest.,
+299,Enthrall,To captivate or hold someone's attention completely.,
+300,Entreat,To plead or beg earnestly.,
+301,Entrenched,Firmly established and unlikely to change.,
+302,Ephemeral,Lasting for a very short time.,
+303,Equanimity,"Calmness and composure, especially in difficult situations.",
+304,Equitable,Fair and impartial.,
+305,Equivocal,Open to more than one interpretation; ambiguous.,Uncertain or questionable in nature.
+306,Erratic,Irregular or unpredictable in behavior or movement.,
+307,Erroneous,Containing mistakes; incorrect.,
+308,Erstwhile,Former or previous.,
+309,Erudite,Having or showing great knowledge or learning.,
+310,Escalate,To increase rapidly in extent or intensity.,
+311,Eschew,To deliberately avoid or abstain from something.,
+312,Esoteric,"Intended for or understood by a small, specific group.",
+313,Estrange,To alienate or cause someone to feel distant or unfriendly.,
+314,Euphemism,A mild or indirect expression used in place of one that is harsh or unpleasant.,
+315,Euphoric,Experiencing intense happiness or excitement.,
+316,Evade,"To avoid or escape, especially through cleverness or deceit.",
+317,Evanescent,Quickly fading or disappearing.,
+318,Evasive,Avoiding directness or commitment; elusive.,
+319,Evoke,"To bring a feeling, memory, or image to mind.",
+320,Exacerbate,To make a situation worse.,
+321,Exacting,Demanding precision or strict standards.,
+322,Exalt,To praise or elevate highly.,
+323,Exasperate,To irritate or annoy intensely.,
+324,Excoriate,To criticize harshly.,To strip or peel off the skin.
+325,Exculpate,To clear from blame or guilt.,
+326,Exegesis,"A detailed analysis or interpretation of a text, especially scripture.",
+327,Exhort,To strongly encourage or urge someone to do something.,
+328,Exigent,Urgent or requiring immediate action.,
+329,Exonerate,To absolve someone from blame or responsibility.,
+330,Exorbitant,"Excessively high, especially in price or cost.",
+331,Exorcise,To drive out evil spirits.,To remove something undesirable.
+332,Exotic,Unusual or striking due to being foreign or unfamiliar.,
+333,Expatiate,To speak or write at length about a topic.,
+334,Expedient,"Convenient and practical, although possibly improper or immoral.",
+335,Expedite,To speed up a process or action.,
+336,Explicate,To explain or analyze in detail.,
+337,Explicit,Stated clearly and leaving no room for confusion.,
+338,Extant,"Still in existence, especially of documents or artifacts.",
+339,Extenuating,Lessening the severity or culpability of an offense.,
+340,Extol,To praise highly.,
+341,Extraneous,Irrelevant or unrelated to the current topic.,Coming from the outside.
+342,Facetious,Treating serious issues with deliberately inappropriate humor.,
+343,Factious,Relating to or causing internal conflict or dissent.,
+344,Fallacious,Based on a mistaken belief or false reasoning.,
+345,Fallible,Capable of making mistakes or being wrong.,
+346,Fallow,Land left unplanted to restore fertility.,Inactive or unproductive.
+347,Falter,To hesitate or waver in action or purpose.,To lose strength or momentum.
+348,Fastidious,Very attentive to detail and cleanliness.,
+349,Fawn,To show excessive flattery or affection to gain favor.,
+350,Feckless,Lacking initiative or strength of character; ineffective.,
+351,Fecund,Capable of producing an abundance of offspring or growth; fertile.,Intellectually productive or creative.
+352,Feeble,"Lacking physical strength, often due to age or illness.",Lacking strength of character or effectiveness.
+353,Feign,"To pretend to have a feeling, state, or injury.",
+354,Felicitous,Well-suited to the occasion or circumstances.,Pleasing and fortunate.
+355,Fervent,Displaying passionate intensity.,
+356,Fervid,Intensely enthusiastic or passionate.,Heated or burning in literal or figurative terms.
+357,Fervor,Intense and passionate feeling.,
+358,Fester,To become infected or inflamed (literal or metaphorical).,To worsen or become more intense over time.
+359,Fickle,Likely to change opinions or loyalties frequently.,
+360,Finicky,Excessively concerned with details or cleanliness; hard to please.,
+361,Flagrant,"Shockingly noticeable or evident, often in a scandalous way.",
+362,Flamboyant,Attracting attention through exuberance or bold style.,
+363,Fledgling,A young bird just learning to fly.,A person or organization that is inexperienced or new.
+364,Fleeting,Lasting for a very short time.,
+365,Florid,Having a red or flushed complexion.,Excessively intricate or ornate in style.
+366,Flout,To openly disregard a rule or law.,
+367,Flummoxed,Confused or bewildered.,
+368,Foil,To prevent something from succeeding.,A character or element that contrasts another to highlight certain qualities.
+369,Foment,To instigate or stir up (especially undesirable actions like rebellion).,
+370,Foolhardy,Recklessly bold or rash.,
+371,Forbear,To refrain from something; exercise self-control.,
+372,Foreground,The part of a scene or image nearest to the observer.,To make something more prominent or important.
+373,Forestall,To prevent or obstruct something by taking advance action.,
+374,Forsake,To abandon or renounce.,
+375,Fortitude,Courage in facing pain or adversity.,
+376,Fortuitous,"Happening by chance, often with a positive outcome.",
+377,Fractious,Irritable and quarrelsome.,Difficult to control; unruly.
+378,Frenetic,Fast-paced and energetic in an uncontrolled way.,
+379,Fret,To worry or feel anxious.,
+380,Fringe,A decorative border or edge.,A marginal or unconventional group or activity.
+381,Frivolous,Not having serious value or purpose; trivial.,
+382,Fungible,Interchangeable and replaceable by another identical item.,
+383,Furtive,"Attempting to avoid notice or attention, often because of guilt.",
+384,Futile,Incapable of producing any result; pointless.,
+385,Gaffe,An unintentional act or remark causing embarrassment.,
+386,Gainsay,"To deny, contradict, or oppose.",
+387,Galvanize,To shock or excite someone into action.,To coat metal with a protective layer of zinc.
+388,Garrulous,"Excessively talkative, especially about trivial matters.",
+389,Gauche,Lacking social grace or sophistication; awkward.,
+390,Gawky,Nervously awkward or clumsy.,
+391,Germane,Relevant to the subject at hand.,
+392,Glib,Fluent but insincere or shallow in speech.,
+393,Goad,To provoke or stimulate someone to act.,
+394,Goosebumps,A physical reaction where skin becomes bumpy due to cold or emotion.,
+395,Gratify,To please or satisfy.,
+396,Gratuitous,Unnecessary or uncalled for.,Free of charge.
+397,Gregarious,Sociable and enjoying the company of others.,
+398,Grovel,To act in a submissive or obsequious manner.,
+399,Hackneyed,Overused and unoriginal.,
+400,Hamper,To obstruct or impede the progress of something.,
+401,Hapless,Unfortunate or unlucky.,
+402,Harangue,A lengthy and aggressive speech.,To lecture someone in a critical manner.
+403,Harbinger,A forerunner or sign of something to come.,
+404,Harrow,To cause distress or torment.,An agricultural tool used to break up soil.
+405,Haughty,Arrogantly superior and disdainful.,
+406,Headstrong,Stubborn and determined to do as one pleases.,
+407,Heed,To pay attention to or take notice of.,
+408,Herald,A messenger bringing important news.,To announce or signal the arrival of something.
+409,Heterodox,Holding beliefs that differ from the accepted norm or tradition.,
+410,Heterogeneous,Composed of diverse and different elements.,
+411,Hidebound,Unwilling to change due to rigid or conservative beliefs.,
+412,Hinder,To obstruct or delay progress.,
+413,Histrionic,Overly theatrical or dramatic in behavior.,
+414,Hodgepodge,A confused mixture or jumble.,
+415,Homogeneous,Composed of parts that are the same or similar.,
+416,Hortatory,Encouraging or urging a course of action.,
+417,Humdrum,"Dull, monotonous, or lacking excitement.",
+418,Hyperbole,Exaggerated statements not meant to be taken literally.,
+419,Iconoclastic,Attacking or challenging cherished beliefs or institutions.,
+420,Idyllic,"Extremely pleasant, peaceful, or picturesque.",
+421,Illiberal,Narrow-minded or not open to new ideas.,Lacking generosity.
+422,Illusory,Based on illusion; not real or deceptive.,
+423,Imbroglio,A complicated or confusing situation.,
+424,Imminent,About to happen.,
+425,Immure,To enclose or confine someone against their will.,
+426,Immutable,Unchanging over time or unable to be changed.,
+427,Impair,To weaken or damage.,
+428,Impartial,Fair and unbiased.,
+429,Impecunious,Having little or no money; poor.,
+430,Impede,To obstruct or delay progress.,
+431,Impenetrable,Impossible to pass through or enter.,Impossible to understand.
+432,Imperative,Absolutely necessary or required.,Expressing a command or urgent request.
+433,Imperious,Arrogant and domineering.,
+434,Impertinent,Rude or disrespectful.,Irrelevant to the matter at hand.
+435,Imperturbable,Calm and not easily disturbed.,
+436,Impervious,Not allowing fluid or influence to pass through.,Unaffected by criticism or persuasion.
+437,Impetuous,Acting quickly and without thought; rash.,
+438,Impetus,A driving force or motivation.,
+439,Implacable,Unable to be pacified or appeased.,
+440,Implausible,Not believable or realistic.,
+441,Implicit,Implied rather than expressly stated.,
+442,Improvise,To perform or create without preparation.,
+443,Imprudent,Not showing care for consequences; rash.,
+444,Impudent,Disrespectful or brazenly bold.,
+445,Impugn,To challenge the truth or integrity of something.,
+446,Inalienable,Unable to be taken away or transferred.,
+447,Inarticulate,Unable to express oneself clearly.,
+448,Incendiary,Designed to cause fires.,Likely to provoke anger or conflict.
+449,Incensed,Extremely angry or enraged.,
+450,Incessant,Continuing without interruption.,
+451,Inchoate,Just begun and not fully formed or developed; rudimentary.,Lacking structure or organization.
+452,Incongruous,Not in harmony or keeping with the surroundings or other aspects.,
+453,Inconsequential,Not important or significant.,
+454,Incontrovertible,Impossible to dispute or question; undeniably true.,
+455,Incredulous,Unwilling or unable to believe something; skeptical.,
+456,Indecorous,Not in keeping with good taste or propriety; improper.,
+457,Indefatigable,Persisting tirelessly; showing no signs of fatigue.,
+458,Indict,To formally accuse or charge with a crime.,
+459,Indifferent,Having no particular interest or sympathy; unconcerned.,Mediocre or neither good nor bad.
+460,Indignant,Feeling or showing anger at what is perceived as unfair treatment.,
+461,Indiscriminate,Done at random or without careful judgment.,
+462,Indispensable,Absolutely necessary or essential.,
+463,Indolent,Lazy or avoiding activity.,Causing little or no pain (used medically).
+464,Industrious,Hardworking and diligent.,
+465,Ineluctable,Impossible to avoid or escape; inevitable.,
+466,Infallible,Incapable of making mistakes or being wrong.,
+467,Inform,To give knowledge or information.,To influence or shape something.
+468,Ingenious,"Clever, original, and inventive.",
+469,Ingenuous,Innocent and unsuspecting.,
+470,Ingrained,Deeply embedded or firmly fixed.,
+471,Inhibit,To hinder or prevent an action or process.,
+472,Inimical,Hostile or harmful.,
+473,Innocuous,Harmless or not likely to offend.,
+474,Inscrutable,Difficult to understand or interpret.,
+475,Insidious,"Proceeding in a gradual, subtle way, but with harmful effects.",
+476,Insipid,"Lacking flavor, vigor, or interest.",
+477,Insolent,Showing a rude or arrogant lack of respect.,
+478,Insular,Narrow-minded or isolated.,Relating to or resembling an island.
+479,Intermittent,Occurring at irregular intervals; not continuous.,
+480,Intertwined,Twisted together or closely connected.,
+481,Intimate,Closely acquainted or familiar.,To hint or suggest subtly.
+482,Intractable,Hard to control or deal with.,
+483,Intransigent,Unwilling to compromise or change one's views.,
+484,Intrepid,Fearless and adventurous.,
+485,Inundate,To overwhelm with things or people.,To flood or submerge.
+486,Inveigle,To persuade someone through deception or flattery.,
+487,Inveterate,"Habitual or firmly established, especially in a negative way.",
+488,Invidious,Likely to arouse resentment or anger in others.,
+489,Invigorate,To give energy or life to something or someone.,
+490,Inviolate,Untouched or unaltered; pure.,
+491,Involved,Complicated and difficult to understand.,Engaged in or connected to an activity.
+492,Irascible,Easily angered or irritable.,
+493,Ire,Anger or wrath.,
+494,Irksome,Annoying or tedious.,
+495,Ironclad,Very strong or secure; unbreakable.,
+496,Ironic,"Happening in a way that is contrary to expectations, often with an amusing result.",
+497,Irrefutable,Impossible to disprove or deny.,
+498,Irresolute,Uncertain or hesitant in decision-making.,
+499,Irreverent,Showing a lack of respect for things generally taken seriously.,
+500,Itinerant,"Traveling from place to place, especially for work.",
+501,Jettison,To discard or abandon something unnecessary.,To throw goods overboard to lighten a ship or aircraft.
+502,Judicious,Having or showing good judgment or sense.,
+503,Keen,Sharp or highly developed (as in senses or intellect).,Eager or enthusiastic.
+504,Kindred,Similar in nature or character; related.,One's family or relatives.
+505,Laborious,Requiring considerable effort and time.,
+506,Laconic,Using very few words; concise.,
+507,Lament,To express sorrow or regret.,A passionate expression of grief.
+508,Lampoon,To publicly criticize or ridicule using satire.,
+509,Languid,Lacking energy or enthusiasm; sluggish.,
+510,Languish,To lose vitality; to become weak or feeble.,To suffer in an unpleasant situation.
+511,Largesse,Generosity in giving gifts or money.,
+512,Lassitude,A state of physical or mental weariness; lack of energy.,
+513,Lax,Not strict or severe; careless.,
+514,Layperson,A non-expert or someone not belonging to a particular profession.,
+515,Levity,"Humor or lightheartedness, especially in serious situations.",
+516,Libertine,"A person who behaves without moral principles, especially in sexual matters.","A freethinker, especially in religious contexts."
+517,Limpid,Clear and transparent (literally or metaphorically).,
+518,Lionize,To treat someone as a celebrity or with great importance.,
+519,Loathe,To feel intense dislike or disgust.,
+520,Loquacious,Extremely talkative.,
+521,Lucid,Clear and easy to understand.,Having full mental clarity.
+522,Ludicrous,Absurd or ridiculous to the point of being laughable.,
+523,Lugubrious,Exaggeratedly mournful or gloomy.,
+524,Lull,A temporary calm or pause in activity.,To soothe or send to sleep.
+525,Luminary,"A person who inspires or influences others, especially in a particular field.","A celestial body, such as the sun or moon."
+526,Lurid,"Shocking or sensational, often in a negative way.","Vivid in color, creating a harsh or unnatural effect."
+527,Macabre,"Gruesome or horrifying, often relating to death.",
+528,Magisterial,Commanding and authoritative.,Relating to or characteristic of a magistrate.
+529,Magnanimous,"Generous or forgiving, especially toward a rival or less powerful person.",
+530,Makeshift,A temporary or improvised solution.,
+531,Maladroit,Clumsy or lacking skill.,
+532,Malady,A disease or ailment.,A deep-seated problem or disorder.
+533,Malevolent,Having or showing a desire to cause harm to others.,
+534,Malfeasance,"Wrongdoing, especially by a public official.",
+535,Malign,To speak harmful lies about someone.,Evil in nature or effect.
+536,Malleable,Easily shaped or molded (literally or metaphorically).,
+537,Manacle,A shackle for the hands or feet; a restraint.,To restrain or restrict someone.
+538,Manifest,Clear or obvious to the eye or mind.,To show or demonstrate plainly.
+539,Marginalize,To treat someone or something as insignificant or peripheral.,
+540,Martinet,"A strict disciplinarian, especially in a military context.",
+541,Maunder,To talk in a rambling or aimless manner.,To move or act aimlessly or idly.
+542,Mawkish,Excessively sentimental to the point of being sickening.,
+543,Meager,Lacking in quantity or quality; insufficient.,
+544,Mendacity,Untruthfulness or dishonesty.,
+545,Mercenary,Motivated by money or material gain rather than ethics.,A professional soldier hired to serve in a foreign army.
+546,Mercurial,Prone to sudden changes in mood or behavior.,
+547,Meretricious,Attracting attention in a vulgar or flashy way; false allure.,
+548,Metaphorical,"Figurative, not literal.",
+549,Meticulous,Extremely careful and precise.,
+550,Mettlesome,Full of spirit and courage.,
+551,Mimic,"To imitate someone or something, often to entertain or ridicule.",To closely resemble something.
+552,Minute,Extremely small or detailed.,A record of proceedings or actions taken during a meeting.
+553,Misanthropic,Disliking or mistrusting humankind.,
+554,Misconstrue,To interpret something incorrectly.,
+555,Miscreant,A person who behaves badly or breaks the law.,
+556,Miserly,Stingy or unwilling to spend money.,
+557,Misnomer,An incorrect or inappropriate name.,
+558,Mitigate,"To make something less severe, harmful, or painful.",
+559,Modish,Stylish or fashionable.,
+560,Mollify,To soothe or appease anger or anxiety.,
+561,Morbid,"Having an abnormal or unhealthy interest in disturbing subjects, especially death.",
+562,Mordant,Sharply critical or biting in tone or manner.,
+563,Morose,"Sullen, gloomy, or ill-tempered.",
+564,Mundane,Ordinary or lacking excitement; everyday.,Of the earthly world rather than a spiritual one.
+565,Munificent,Extremely generous or lavish.,
+566,Myopic,"Short-sighted, either literally or figuratively (lacking foresight or imagination).",
+567,Myriad,A countless or extremely large number.,
+568,Nadir,The lowest point in a situation or condition.,
+569,Nascent,Just coming into existence and beginning to display potential.,
+570,Negligent,Failing to take proper care or attention.,
+571,Neophyte,A beginner or someone new to a subject or activity.,
+572,Nettlesome,Irritating or annoying.,
+573,Nonchalant,"Calm, casual, and unconcerned.",
+574,Nonplussed,"Confused or unsure how to respond. Secondary (informal, U.S.): Unfazed or unaffected.",
+575,Normative,Relating to establishing standards or norms.,
+576,Novel,New or original.,A long work of fiction.
+577,Noxious,"Harmful, poisonous, or very unpleasant.",
+578,Nullify,To make something legally null and void; invalidate.,To cancel out or neutralize.
+579,Numinous,Having a strong spiritual or divine quality.,
+580,Obdurate,Stubbornly refusing to change one's opinion or course of action.,
+581,Obeisance,"A gesture of respect or deference, such as a bow.",
+582,Obfuscate,To deliberately make something unclear or difficult to understand.,
+583,Objurgate,To scold or criticize harshly.,
+584,Oblivious,Unaware or not concerned about what is happening.,
+585,Obscure,Not well known or difficult to understand.,To conceal or make unclear.
+586,Obsequious,Excessively obedient or attentive to please others.,
+587,Obsolete,No longer in use; outdated.,
+588,Obstinate,Stubbornly refusing to change one's opinion or behavior.,
+589,Obviate,To remove or prevent the need for something.,
+590,Occlude,To block or stop up.,
+591,Odious,Extremely unpleasant or repulsive.,
+592,Officious,Intrusively enthusiastic in offering help or advice.,
+593,Omnipresent,Present everywhere at the same time.,
+594,Omniscient,Knowing everything.,
+595,Onerous,Burdensome or involving heavy obligations.,
+596,Opaque,Not transparent; not allowing light to pass through.,Hard to understand or interpret.
+597,Opprobrium,Harsh criticism or disgrace.,
+598,Opulent,Rich and luxurious.,
+599,Ossify,To become rigid or inflexible.,To turn into bone.
+600,Ostentatious,"Designed to impress or attract attention, often in a showy manner.",
+601,Oust,To remove or expel someone from a position or place.,
+602,Overt,Done or shown openly; not hidden or secret.,
+603,Palliate,To alleviate symptoms without curing the underlying cause.,To moderate or lessen the seriousness of something.
+604,Palpable,Able to be touched or felt.,So intense as to seem almost tangible.
+605,Panacea,A solution or remedy for all difficulties or diseases.,
+606,Panache,Flamboyant confidence of style or manner.,
+607,Paradigm,A typical example or pattern of something; a model.,
+608,Paradox,A statement or situation that appears contradictory but may contain truth.,
+609,Paragon,A person or thing regarded as a perfect example of a particular quality.,
+610,Parochial,Relating to a parish or church.,Narrow-minded or limited in scope.
+611,Parsimonious,Extremely frugal or stingy.,
+612,Partial,Incomplete or not whole.,Showing bias or favor toward something.
+613,Partisan,"A strong supporter of a party, cause, or person.",Prejudiced in favor of a particular cause.
+614,Pastiche,A work that imitates the style of previous works.,A mixture of different elements.
+615,Pastoral,Relating to the countryside or rural life.,Relating to the duties of a pastor.
+616,Patent,Easily recognizable or obvious.,A legal right granted for an invention.
+617,Patronize,To treat with apparent kindness that betrays a sense of superiority.,To support or sponsor something.
+618,Paucity,A scarcity or insufficient quantity.,
+619,Peculiar,Strange or unusual.,Belonging specifically to someone or something.
+620,Pedantic,Overly concerned with minor details or formal rules.,
+621,Pedestrian,A person walking along a road or street.,Lacking inspiration or excitement; dull.
+622,Pejorative,Expressing disapproval or contempt.,
+623,Pellucid,Clear and easy to understand.,Transparent or allowing light to pass through.
+624,Penchant,A strong liking or inclination for something.,
+625,Penitent,Feeling or showing regret for wrongdoing.,
+626,Pensive,"Deep in thought, often in a reflective or melancholic way.",
+627,Penurious,Extremely poor; poverty-stricken.,Stingy or unwilling to spend money.
+628,Perennial,Lasting for a long time or recurring repeatedly.,A plant that lives for more than two years.
+629,Perfidy,Deceitfulness or untrustworthiness.,
+630,Perfunctory,Done without care or interest; routine.,
+631,Perilous,Full of danger or risk.,
+632,Peripheral,Relating to the outer edge or boundary.,Of minor importance; marginal.
+633,Pernicious,"Having a harmful effect, often in a subtle or gradual way.",
+634,Perpetrate,To commit or carry out (a crime or harmful act).,
+635,Perpetuate,To cause something to continue indefinitely.,
+636,Perspicacious,Having keen insight or understanding.,
+637,Pertinacious,Holding firmly to an opinion or course of action.,
+638,Pertinent,Relevant or applicable to a particular matter.,
+639,Pervasive,Spreading widely throughout an area or group.,
+640,Petulant,Childishly sulky or bad-tempered.,
+641,Philistine,A person who is indifferent or hostile to culture and the arts.,
+642,Phlegmatic,Calm and unemotional in temperament.,
+643,Phony,Fake or not genuine.,
+644,Picturesque,"Visually attractive, especially in a quaint or charming way.",
+645,Piquant,Having a pleasantly sharp or spicy taste.,Stimulating or exciting to the mind.
+646,Pithy,Concise and full of meaning.,
+647,Placate,To make someone less angry or hostile.,
+648,Placid,"Calm and peaceful, with little movement or activity.",
+649,Plaintive,Sounding sad or mournful.,
+650,Plastic,Able to be molded or shaped.,Artificial or superficial in nature.
+651,Platitude,"A remark or statement, especially one with moral content, that is overused and unoriginal.",
+652,Plausible,Seemingly reasonable or probable.,
+653,Pliant,Easily bent or flexible.,Easily influenced or yielding to others.
+654,Plodding,Slow-moving and unexciting.,Working persistently but without enthusiasm.
+655,Ploy,A cunning plan or action designed to turn a situation to one's advantage.,
+656,Plucky,Showing determined courage in the face of difficulties.,
+657,Poignant,"Evoking a strong emotional reaction, especially sadness or regret.",
+658,Polarize,To divide into sharply opposing factions or groups.,
+659,Polemical,Relating to or involving strongly critical or controversial speech or writing.,
+660,Ponderous,Slow and clumsy due to great weight.,Dull or laborious.
+661,Portend,To be a sign or warning that something significant or bad will happen.,
+662,Portentous,Ominous or foreboding.,Pompous or self-important.
+663,Precarious,Not securely held or in position; dangerously unstable.,
+664,Precipitate,To cause something to happen suddenly or unexpectedly.,Acting hastily or without careful consideration.
+665,Precipitous,Dangerously steep or high.,Done suddenly and without careful thought.
+666,Preclude,To prevent or make impossible.,
+667,Precocious,Showing advanced abilities or maturity at an unusually early age.,
+668,Predicament,"A difficult, unpleasant, or embarrassing situation.",
+669,Predilection,A strong preference or special liking for something.,
+670,Premeditate,To think about or plan something in advance.,
+671,Premonition,"A strong feeling that something is about to happen, especially something bad.",
+672,Prescient,Having knowledge of events before they take place.,
+673,Presumptuous,Overstepping boundaries of propriety or courtesy; arrogant.,
+674,Pretentious,"Attempting to impress by showing greater importance, talent, or culture than is actually possessed.",
+675,Preternatural,Beyond what is normal or natural.,
+676,Prevaricate,To avoid telling the truth by being evasive or ambiguous.,
+677,Pristine,In its original condition; unspoiled.,Clean and fresh as if new.
+678,Probity,Strong moral principles; honesty and integrity.,
+679,Proclivity,A natural inclination or predisposition toward something.,
+680,Prodigal,Wastefully extravagant.,Having or giving something on a lavish scale.
+681,Prodigious,"Remarkably great in size, extent, or degree.",
+682,Profligate,Recklessly extravagant or wasteful in resources.,A person who is recklessly extravagant.
+683,Profound,"Very deep, intellectually or emotionally.",Having a far-reaching impact.
+684,Profundity,Depth of thought or insight.,
+685,Profuse,Abundant or extravagant in quantity.,
+686,Proliferate,To increase rapidly in numbers or spread quickly.,
+687,Prolific,"Producing much fruit, foliage, or offspring.",Producing abundant works or results.
+688,Prolix,Excessively lengthy or wordy.,
+689,Promulgate,"To make a policy, law, or idea widely known or official.",
+690,Propensity,A natural tendency or inclination to behave in a certain way.,
+691,Prophetic,Accurately predicting future events.,
+692,Propitiate,To appease or win the favor of someone.,
+693,Prosaic,Dull or lacking imagination.,
+694,Providential,Happening at a favorable time; opportune.,Involving divine foresight or intervention.
+695,Provincial,Relating to a province or rural area.,Narrow-minded or unsophisticated.
+696,Provocative,"Causing a strong reaction, especially deliberately.",
+697,Prowess,Exceptional skill or ability.,
+698,Proxy,A person authorized to act on behalf of another.,The authority to represent someone else.
+699,Prudent,Acting with care and thought for the future.,
+700,Puerile,Childishly silly or immature.,
+701,Pugnacious,"Eager or quick to argue, quarrel, or fight.",
+702,Punctilious,Showing great attention to detail or correct behavior.,
+703,Qualm,"A feeling of unease or doubt, often about one's own actions.",
+704,Quandary,A state of perplexity or uncertainty over what to do in a difficult situation.,
+705,Quash,"To reject or void something, especially a legal decision.",To suppress or put an end to something.
+706,Quibble,To argue or raise objections about a trivial matter.,A minor or petty criticism.
+707,Quiescent,In a state of inactivity or dormancy.,
+708,Quirky,Characterized by peculiar or unexpected traits.,
+709,Quixotic,Extremely idealistic and impractical.,
+710,Quotidian,Ordinary or everyday; commonplace.,
+711,Radical,Relating to or affecting the fundamental nature of something; far-reaching.,Advocating for thorough or complete political or social change.
+712,Raillery,"Light, good-humored teasing.",
+713,Ramification,"A consequence of an action or event, especially when complex or unwelcome.",
+714,Rampant,"Spreading unchecked, often in a harmful way.",
+715,Rapacious,Aggressively greedy or grasping.,
+716,Rapprochement,The reestablishment of friendly relations.,
+717,Recant,"To formally withdraw a belief, statement, or opinion.",
+718,Recapitulate,To summarize or repeat the main points.,
+719,Recluse,A person who lives a solitary life and avoids social interaction.,
+720,Recondite,"Little known or obscure, often referring to complex or specialized knowledge.",
+721,Recourse,The use of someone or something for help or protection.,
+722,Recrudesce,To break out again or recur after a period of inactivity.,
+723,Redoubtable,"Formidable, especially as an opponent.",Worthy of respect or honor.
+724,Redundant,Not or no longer needed or useful; superfluous.,
+725,Refute,To prove a statement or theory to be wrong or false.,
+726,Regress,To return to a previous or less advanced state.,
+727,Reiterate,To repeat something for emphasis or clarity.,
+728,Relegate,To assign to a lower position or rank.,To delegate a task or responsibility.
+729,Relinquish,To give up or surrender something voluntarily.,
+730,Relish,Great enjoyment or appreciation.,To enjoy or savor something.
+731,Remedial,"Intended to correct or improve something, especially a skill or knowledge deficit.",
+732,Render,To provide or deliver something.,To cause something to become.
+733,Renege,"To go back on a promise, agreement, or commitment.",
+734,Renounce,"To formally declare abandonment of a claim, right, or possession.",
+735,Repercussion,"An unintended consequence of an event or action, especially an unwelcome one.",
+736,Repertoire,"A set of skills, abilities, or works that a person is prepared to perform.",
+737,Replenish,To refill or restore to its former level or condition.,
+738,Reproach,To express disapproval or disappointment.,
+739,Reprobate,An unprincipled or immoral person.,Expressing disapproval.
+740,Repudiate,To reject or disown something as untrue or unjust.,
+741,Repugnant,Extremely distasteful or unacceptable.,
+742,Resilient,Able to recover quickly from difficulty or adversity.,Capable of returning to its original shape after being bent or stretched.
+743,Resolute,Admirably determined and unwavering.,
+744,Resolution,A firm decision to do or not do something.,The process of solving a problem or dispute.
+745,Resolve,Determination to achieve something.,To settle or find a solution to a problem.
+746,Restive,Unable to keep still or silent due to impatience or dissatisfaction.,
+747,Resurgent,Rising again after a period of decline or inactivity.,
+748,Reticent,Reserved or reluctant to share thoughts or feelings.,
+749,Retiring,Shy and inclined to avoid social interactions.,Leaving a position or profession.
+750,Rhetoric,The art of effective or persuasive speaking or writing.,Language that is insincere or empty in substance.
+751,Risible,Provoking laughter; absurd or ridiculous.,
+752,Row,A noisy dispute or quarrel.,A series of objects arranged in a line.
+753,Ruminate,To think deeply about something.,To chew the cud (in animals).
+754,Sacrosanct,Regarded as too important or valuable to be interfered with.,
+755,Sagacious,Having keen judgment or insight; wise.,
+756,Salutary,"Beneficial, especially after something unpleasant.",
+757,Sanctimonious,Making a show of being morally superior to others.,
+758,Sanction,Official approval or permission for an action.,A penalty imposed to enforce compliance.
+759,Sanguine,"Optimistic or positive, especially in diOicult situations.",A blood-red color.
+760,Sartorial,"Relating to tailoring, clothes, or style of dress.",
+761,Satirical,"Using humor, irony, or ridicule to criticize or expose.",
+762,Scant,Barely sufficient or adequate.,
+763,Schism,"A split or division between strongly opposed groups, often due to differing beliefs.",
+764,Scorn,Contempt or disdain toward someone or something considered unworthy.,To reject or refuse with contempt.
+765,Scrupulous,Diligent and extremely attentive to detail.,Very concerned to avoid doing wrong.
+766,Scuffle,"A short, confused fight or struggle.",To move in a hurried or awkward manner.
+767,Sedulous,Showing dedication and diligence.,
+768,Serene,"Calm, peaceful, and untroubled.",
+769,Sever,To cut off or separate.,To break a connection or relationship.
+770,Sham,Something false or fake.,To falsely present as genuine.
+771,Shirk,To avoid or neglect a duty or responsibility.,
+772,Showy,"Excessively bright, elaborate, or ostentatious.",
+773,Shrewd,Having sharp judgment or practical intelligence.,
+774,Sinecure,A position requiring little or no work but providing financial benefit.,
+775,Sinuous,Having many curves and turns.,Flexible or graceful in movement.
+776,Skeptic,A person inclined to question or doubt accepted opinions.,
+777,Skittish,Nervous or easily frightened.,Lacking stability; unpredictable.
+778,Slander,A false spoken statement that damages someone's reputation.,To make false and damaging statements about someone.
+779,Slight,Small in degree or inconsiderable.,To insult or disregard someone.
+780,Slovenly,Messy or dirty.,Careless or negligent.
+781,Sluggish,Lacking energy or slow-moving.,
+782,Solicitous,Showing concern or care for someone's well-being.,
+783,Soporific,Tending to induce drowsiness or sleep.,
+784,Sordid,Involving immoral or dishonorable actions.,Dirty or squalid.
+785,Sparing,Economical or frugal.,Restrained or limited in quantity.
+786,Sparse,Thinly scattered or distributed.,
+787,Spartan,"Simple, austere, and disciplined.",
+788,Specious,Misleadingly attractive or plausible.,
+789,Spendthrift,A person who spends money extravagantly.,
+790,Sporadic,Occurring at irregular intervals; scattered.,
+791,Spurious,False or not genuine.,
+792,Spurn,To reject with disdain or contempt.,
+793,Squander,"To waste something, especially time or money, in a reckless manner.",
+794,Staid,"Serious, respectable, and unadventurous.",
+795,Stalwart,"Loyal, reliable, and hardworking.",Strongly built or sturdy.
+796,Stanch,"To stop or restrict the flow of something, especially blood.",
+797,Staple,A basic or essential item or commodity.,
+798,Stern,Strict or severe in manner.,The rear part of a ship.
+799,Stigmatize,To brand or label something or someone with disgrace.,
+800,Stingy,Unwilling to spend money; miserly.,
+801,Stint,A fixed period of time spent doing a specific activity.,To be frugal or limit resources.
+802,Stoic,Enduring pain or hardship without showing emotion.,
+803,Stolid,"Calm and dependable, showing little emotion or animation.",
+804,Strife,"Conflict, struggle, or discord.",
+805,Stringent,"Strict or exacting, often referring to rules or requirements.",
+806,Subservient,Excessively willing to obey or serve others.,Less important; subordinate.
+807,Subside,To become less intense or severe.,To sink to a lower level or into the ground.
+808,Subsume,To include or absorb something into a larger group or category.,
+809,Subtle,"Delicate or understated, not immediately obvious.",Crafty or clever in approach.
+810,Subvert,"To undermine the authority, power, or integrity of something.",
+811,Sullen,Gloomy or bad-tempered.,
+812,Superficial,Concerned with the surface or appearance rather than depth or substance.,Existing only on the surface; shallow.
+813,Superfluous,Unnecessary or excessive.,
+814,Supersede,To take the place of something previously in use or authority.,
+815,Supplant,To replace or displace something or someone.,
+816,Supplicate,To earnestly or humbly request something.,
+817,Surfeit,An excessive amount of something.,To overindulge or consume excessively.
+818,Surly,Bad-tempered and unfriendly.,
+819,Surmount,To overcome a difficulty or obstacle.,To be placed on top of something.
+820,Surreptitious,Done secretly or stealthily.,
+821,Surrogate,A substitute or replacement for someone or something.,
+822,Susceptible,Likely to be influenced or harmed by a particular thing.,
+823,Sycophant,A person who flatters or acts submissively toward someone important to gain advantage.,
+824,Synoptic,Providing a general summary or overview.,
+825,Tacit,Understood or implied without being stated.,
+826,Taciturn,Reserved or uncommunicative in speech; saying little.,
+827,Tact,Sensitivity and skill in dealing with others or with difficult issues.,
+828,Tangent,A completely different line of thought or action.,A straight line that touches a curve but does not cross it.
+829,Tantalizing,Tempting or teasing by keeping something just out of reach.,
+830,Tantamount,Equivalent in seriousness or virtually the same as something.,
+831,Tarnish,"To lose or cause to lose luster, especially from exposure to air or moisture.",To damage someone's reputation.
+832,Temerity,Excessive confidence or boldness; audacity.,
+833,Temper,To moderate or soften something.,"A state of mind, especially regarding anger or calmness."
+834,Tempestuous,Characterized by strong and turbulent emotions.,Relating to or resembling a storm.
+835,Temporal,Relating to worldly as opposed to spiritual matters.,Relating to time.
+836,Tenable,Capable of being defended or justified.,
+837,Tendentious,"Expressing or promoting a particular point of view, especially one that is controversial.",
+838,Tenuous,Very weak or slight.,Thin or slender in form.
+839,Tepid,Lukewarm in temperature.,Lacking enthusiasm or interest.
+840,Terse,Brief and to the point; concise.,
+841,Timorous,Showing nervousness or a lack of confidence.,
+842,Tirade,"A long, angry speech of criticism or accusation.",
+843,Torpid,Mentally or physically inactive; sluggish.,
+844,Torpor,A state of physical or mental inactivity; lethargy.,
+845,Tortuous,Full of twists and turns.,Complex or excessively lengthy.
+846,Tout,To publicly promote or praise something.,
+847,Tractable,Easy to control or influence.,
+848,Tranquil,Peaceful and calm.,
+849,Transient,Lasting only for a short time; temporary.,A person staying in a place for a short time.
+850,Trenchant,Vigorous or incisive in expression or style.,
+851,Trifling,Unimportant or trivial.,
+852,Trite,Overused and lacking originality or freshness.,
+853,Trivial,Of little value or importance.,
+854,Truculent,Aggressively defiant or eager to argue.,
+855,Turbid,"Cloudy or opaque, especially with suspended particles.",Confused or unclear.
+856,Turgid,Swollen or distended.,Overly complex or pompous in style.
+857,Turpitude,Depravity or wickedness.,
+858,Ubiquitous,"Present, appearing, or found everywhere.",
+859,Umbrage,Offense or annoyance.,A shadow or shade.
+860,Uncultivated,"Lacking education, refinement, or sophistication.",Not prepared for growing crops.
+861,Undermine,"To weaken or damage, especially gradually or subtly.",
+862,Underscore,To emphasize or highlight something.,A line drawn under text.
+863,Unpropitious,Not favorable or likely to succeed.,
+864,Unscrupulous,Lacking moral principles or ethics.,
+865,Unseemly,Inappropriate or improper.,
+866,Upbraid,To scold or criticize sharply.,
+867,Utilitarian,Designed for practical use rather than beauty.,Relating to the philosophy of utilitarianism.
+868,Vacillate,To waver between different opinions or actions.,
+869,Vacuous,"Lacking thought, intelligence, or substance.",
+870,Vanquish,To defeat thoroughly in a conflict or contest.,
+871,Vapid,Offering nothing stimulating or challenging; dull.,
+872,Venal,Open to bribery or corruption.,
+873,Venerate,To regard with great respect or reverence.,
+874,Veracious,Truthful or honest.,
+875,Verbose,Using more words than necessary; wordy.,
+876,Verisimilitude,The appearance of being true or real.,
+877,Veritable,"Used as an intensifier, often to qualify a metaphor; true or genuine.",
+878,Vexation,"The state of being annoyed, frustrated, or worried.",
+879,Viable,"Capable of working, succeeding, or living.",
+880,Vigilant,Keeping careful watch for potential danger or difficulties.,
+881,Vilify,To speak or write about someone in a disparaging manner.,
+882,Vindicate,To clear someone of blame or suspicion.,To justify or prove the validity of something.
+883,Virulent,Extremely harmful or poisonous.,Bitterly hostile or antagonistic.
+884,Visionary,Thinking about or planning the future with imagination or wisdom.,A person with original ideas about the future.
+885,Vitiate,To impair the quality or effectiveness of something.,
+886,Vivacious,Attractively lively and animated.,
+887,Vociferous,Expressing opinions or feelings loudly and forcefully.,
+888,Volatile,"Prone to rapid and unpredictable changes, especially for the worse.",Easily evaporated at normal temperatures (used for chemicals).
+889,Voluble,"Talking fluently, readily, or incessantly.",
+890,Wane,"To decrease in size, extent, or degree.",
+891,Wanting,Lacking or deficient in a quality or necessary component.,
+892,Warrant,To justify or necessitate a course of action.,"A document authorizing an action, such as an arrest or search."
+893,Wary,Feeling or showing caution about possible dangers or problems.,
+894,Weary,Feeling tired or worn out.,Bored or impatient with something tedious.
+895,Whimsical,Playfully quaint or fanciful.,Unpredictable or capricious.
+896,Wily,"Skilled at gaining an advantage, often deceitfully.",
+897,Woo,"To seek the favor, affection, or support of someone.",
+898,Zeal,Great energy or enthusiasm in pursuit of a cause or objective.,
+899,Zealous,Having or showing great passion or enthusiasm.,
+900,Zenith,The highest point or peak of something.,
+901,Abstemious,"Moderate or restrained, especially in eating and drinking.",Characterized by self-discipline or avoidance of excess.
+902,Complaisant,Willing to please others; obliging or agreeable.,
+903,Disabuse,To free someone from a false belief or misconception.,
+904,Discordant,Lacking harmony; clashing or conflicting.,Disagreeing or incongruous.
+905,Disparage,To belittle or speak of someone or something in a disrespectful way.,
+906,Elegy,"A mournful poem or piece of music, often lamenting the dead.",
+907,Eulogy,"A speech or piece of writing praising someone, especially one who has died.",
+908,Exigency,An urgent need or demand.,
+909,Fatuous,"Silly or foolish, especially in an unconscious or complacent way.",
+910,Frugal,Economical and avoiding waste; thrifty.,
+911,Guileless,Free of deceit or cunning; innocent and sincere.,
+912,Gullible,Easily deceived or tricked.,
+913,Impassive,Not showing or feeling emotion; expressionless.,
+913,Impermeable,Not allowing liquids or gases to pass through.,Unable to be affected by outside influences.
+914,Implode,To collapse inward violently.,To fail suddenly and completely.
+915,Indigence,Extreme poverty or destitution.,
+916,Inherent,Existing as a natural or essential quality of something.,
+917,Insinuate,"To suggest or hint at something subtly, often negative.",To maneuver oneself into a favorable position.
+918,Insular,Narrow-minded or isolated in outlook.,Relating to an island.
+919,Intransigent,Unwilling to change one's views or agree to compromise.,
+920,Inured,Accustomed to something unpleasant or difficult.,
+921,Invective,"Harsh, insulting, or abusive language.",
+922,Plethora,An excessive or overabundant amount of something.,
+923,Pragmatic,"Dealing with things practically and realistically, rather than theoretically.",
+924,Precursor,Something that comes before and indicates the approach of something else.,
+925,Propriety,Conformity to accepted standards of behavior or morals.,
+926,Proscribe,"To forbid or prohibit something, especially by law.",
+927,Pungent,"Having a strong, sharp taste or smell.",Sharply expressive or critical.
+928,Qualified,Meeting the necessary conditions or standards.,Limited or restricted in some way.
+929,Recalcitrant,Stubbornly uncooperative or defiant of authority.,
+930,Rescind,"To revoke, cancel, or repeal a law, order, or agreement.",
+931,Salubrious,Health-giving or beneficial.,Pleasant or agreeable in climate or surroundings.
+932,Satiate,To satisfy a desire or appetite to the fullest.,
+933,Vituperative,Harshly critical or abusive in speech or writing.,
