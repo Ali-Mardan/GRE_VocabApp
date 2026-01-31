@@ -21,13 +21,6 @@ A beautiful, interactive web application for mastering 934 essential GRE vocabul
 - **Progress Tracking**: Visual indicators of your position in the hierarchy
 - **Statistics Dashboard**: Track your learning progress
 
-### 🎨 Beautiful UI
-- Modern gradient designs
-- Color-coded categories by size
-- Smooth transitions and hover effects
-- Intuitive button layouts
-- Professional typography
-
 ## 🚀 Quick Start
 
 ### Prerequisites
